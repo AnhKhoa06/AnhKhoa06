@@ -9,10 +9,9 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I'm currently working on **YOUR_CURRENT_PROJECT**
-- 🌱 I'm currently learning **YOUR_LEARNING_STACK**
-- 💬 Ask me about **YOUR_EXPERTISE**
-- ⚡ Fun fact: **something fun about you**
+- 🔭 I'm currently working on **a personal web app**
+- 🌱 I'm currently learning **Java**
+- 💬 Ask me about **.NET, Angular**
 
 ---
 
@@ -37,7 +36,7 @@
 
 ---
 
-### 🕹️ Contribution Graph (Pac-Man)
+### 🐍 Fun Fact: Commit Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AnhKhoa06/AnhKhoa06/output/github-contribution-grid-snake.svg" alt="pacman contribution graph" />
