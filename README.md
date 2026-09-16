@@ -16,7 +16,7 @@
 - I'm currently learning **Java**
 - Ask me about **.NET, Angular**
 
----
+
 
 ### 🛠️ Tech Stack
 
@@ -24,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=dotnet,php,angular,nodejs,express,js,html,css,git,mysql" alt="tech stack" />
 </p>
 
----
+
 
 ### 📊 GitHub Stats
 
