@@ -12,9 +12,9 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I'm currently working on **a personal web app**
-- 🌱 I'm currently learning **Java**
-- 💬 Ask me about **.NET, Angular**
+- I'm currently working on **a personal web app**
+- I'm currently learning **Java**
+- Ask me about **.NET, Angular**
 
 ---
 
