@@ -1,11 +1,12 @@
-<h1 align="center">Hi, I'm Anh Khoa</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:764ba2&height=200&section=header&text=Anh%20Khoa&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Web%20Developer&descAlignY=55&descSize=20" alt="header banner" />
+</p>
 <h3 align="center">Web Developer</h3>
-
+ 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AnhKhoa06&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/AnhKhoa06?label=Follow&style=social" alt="followers" />
 </p>
-
 ---
 
 ### 🚀 About Me
