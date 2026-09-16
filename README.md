@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anh Khoa</h1>
+<h1 align="center">Hi, I'm Anh Khoa</h1>
 <h3 align="center">Web Developer</h3>
 
 <p align="center">
@@ -25,10 +25,6 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-nine-rho.vercel.app/api?username=AnhKhoa06&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-nine-rho.vercel.app/api/top-langs/?username=AnhKhoa06&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnhKhoa06&theme=radical" alt="GitHub Streak" />
 </p>
