@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:764ba2&height=220&section=header&text=Anh%20Khoa&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Web%20Developer%20%7C%20From%20Vietnam%20%F0%9F%87%BB%F0%9F%87%B3&descAlignY=58&descSize=18" alt="header banner" />
 </p>
 
-<h1 align="center">Hi, I'm Anh Khoa</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Anh+Khoa" alt="typing-svg" />
+</p>
 <h3 align="center">Web Developer</h3>
  
 <p align="center">
